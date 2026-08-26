@@ -10,9 +10,9 @@ Estas instrucciones te permiten obtener una copia de los notebooks y ejecutarlos
 
 Necesitas tener instalado Python 3 junto con las siguientes librerías:
 numpy
-matplotlib
-
+matplotlib.
 Puedes instalarlas con: pip install numpy matplotlib
+
 Abre los notebooks con Jupyter Notebook, JupyterLab o Google Colab:
 
 
